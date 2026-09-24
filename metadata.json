@@ -1,0 +1,6 @@
+{
+  "name": "Vem Brincar - Inscrições Aniversário",
+  "description": "Sistema de inscrições para o evento de aniversário e Dia das Crianças do Espaço Educacional Vem Brincar em Natal/RN, com oficina de scrapbook, integração via WhatsApp e painel administrativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
